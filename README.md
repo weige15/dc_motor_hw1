@@ -1,7 +1,9 @@
 # Simulink Project: Sanyo Denki SANMOTION RS2 Motor Simulation
 # What the Project Does
 This Simulink project simulates the behavior of the Sanyo Denki SANMOTION RS2: R2-AA-04-005-F-CP DC motor. The simulation includes both open-loop and closed-loop control systems to analyze the motor's performance under different control strategies.
-# What the Project Does
+![image](https://github.com/weige15/dc_motor_hw1/assets/56604491/f1f9a38b-bf3d-45b9-bc71-cdd64d567b08)
+
+# How to use this project
 ![image](https://github.com/weige15/dc_motor_hw1/assets/56604491/2f70344e-c67f-4c03-956a-ffdea0b6b6ea)
 
 assign the value of parameters:
